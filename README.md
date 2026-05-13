@@ -1,4 +1,4 @@
-# 想法成型 (Idea to Product)
+# 灵光一现 (Idea to Product)
 
 把"我想试试"变成"明天就能动手验证"的产品包。
 
